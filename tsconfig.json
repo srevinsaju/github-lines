@@ -10,7 +10,8 @@
     "target": "ES2017",
     "noImplicitAny": false,
     "strictNullChecks": true,
-    "resolveJsonModule": true
+    "resolveJsonModule": true,
+    "skipLibCheck": true
   },
   "compileOnSave": true,
   "include": ["src"]
